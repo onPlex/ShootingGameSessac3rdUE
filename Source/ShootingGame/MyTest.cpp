@@ -17,6 +17,8 @@ void AMyTest::BeginPlay()
 	Super::BeginPlay();
 	
 	UE_LOG(LogTemp, Warning , TEXT("number1 : %d"), number1);
+	
+	
 }
 
 // Called every frame

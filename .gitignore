@@ -74,4 +74,8 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Rider
-Plugins/Developer/RiderLink/ 
+Plugins/Developer/RiderLink/* 
+
+#Content
+Content/City_of_Brass_Enviroment/*
+Content/ProtoTypeFBX/*
